@@ -10,6 +10,8 @@ namespace A_DRP
 		public static void Main ()
 		{
 			// point d'entrée
+
+			// toDel
 		}
 	}
 }
