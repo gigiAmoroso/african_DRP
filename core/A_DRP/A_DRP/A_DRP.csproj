@@ -32,7 +32,7 @@
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Compile Include="DRP.cs" />
-    <Compile Include="core\Territories.cs" />
+    <Compile Include="modules\Territories.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System.Xml" />
@@ -47,9 +47,9 @@
     <Reference Include="System.Data.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="core\" />
     <Folder Include="datas\" />
     <Folder Include="bin\Debug\datas\" />
+    <Folder Include="modules\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
