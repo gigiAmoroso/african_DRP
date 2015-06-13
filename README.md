@@ -1,7 +1,7 @@
 african_DRP
 ===========
 
-Disaster recovery protocol for african tribes and black peoples. -- Protocoles de récupération après sinistre pour les tribus africaines et les peuples noirs. -- Protocolli di recupero di disastro per tribù africane e i popoli neri.
+Disaster recovery protocol for african tribes. -- Protocoles de récupération après sinistre pour les tribus africaines. -- Protocolli di recupero di disastro per tribù africane.
 
 ##SYNOPSIS
 L'Afrique est le berceau de l'humanité. Il serait triste qu'elle soit dégradée pour des raisons de mauvaises gouvernances. Le but de cette DRP est de constituer un programme informatique remédiant à ces déficiences et capable de piloter une Afrique Unie en absence de gouvernement.
